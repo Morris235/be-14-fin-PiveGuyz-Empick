@@ -219,12 +219,12 @@ EMPICK은 Employee와 Pick의 합성어로, 기업이 필요한 인재를 ‘선
 
 ## 🚀 설치 및 실행
 
-### **배포된 서비스**
+<!-- ### **배포된 서비스**
 
 🌐 **프로덕션**: https://www.empick.shop  
 📚 **API 문서**: http://vpc2-backend-alb-1656085190.ap-northeast-2.elb.amazonaws.com/swagger-ui.html
 
----
+--- -->
 
 ## 📱 주요 기능 시연 영상
 [Empick 시연 영상](https://youtu.be/aE2290PqoWE)
